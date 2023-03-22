@@ -1,3 +1,15 @@
+This Instant Chat App is Made in Flutter For College Project 
+It is a chatting app between two end users 
+Firebase auth
+restful Api
+push notification
+cloud firestore and storage
+is used in this application
+
+It is a refrence of some other app
+
+
+
 # chat_app
 
 A new Flutter project.
